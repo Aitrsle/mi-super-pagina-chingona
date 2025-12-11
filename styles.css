@@ -1,9 +1,12 @@
 body{
     font-family: monospace;
-    background-color: rgb(135, 171, 202);
+    background-color:rgb(52, 201, 224);
+    text-align: center;
+    color:blueviolet;
+    
 }
 
 h1{
-    border-bottom: dotted;
-    width: 300px;
+    border-bottom:solid beige;
+    
 }
